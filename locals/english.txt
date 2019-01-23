@@ -42,6 +42,13 @@
 	"bm_wp_wpn_fps_pis_noodle_fl_zom"  : "SureFire X400 Tactical Light",
 	"bm_wp_wpn_fps_pis_noodle_gr_zom"  : "Wood Grips (Flat)",
 	
+	"bm_wp_wpn_fps_pis_noodle_fo_gre"  : "Green Tritium Front Sight",
+	"bm_wp_wpn_fps_pis_noodle_ro_gre"  : "Green Tritium Rear Sight",
+	"bm_wp_wpn_fps_pis_noodle_fo_ora"  : "Orange Tritium Front Sight",
+	"bm_wp_wpn_fps_pis_noodle_ro_ora"  : "Orange Tritium Rear Sight",
+	"bm_wp_wpn_fps_pis_noodle_fo_red"  : "Red Tritium Front Sight",
+	"bm_wp_wpn_fps_pis_noodle_ro_red"  : "Red Tritium Rear Sight",
+	
 	"bm_wp_wpn_fps_pis_noodle_m_8"     : "8 Round Magazine",
 	"bm_wp_wpn_fps_pis_noodle_m_10"    : "10 Round Magazine",
 	
