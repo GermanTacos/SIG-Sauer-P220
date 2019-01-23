@@ -133,6 +133,9 @@
 		<override>
 			<wpn_fps_pis_noodle_ba_std unit="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_ba_zom"/>
 			<wpn_fps_pis_noodle_fo_std a_obj="a_sl_fo"/>
+			<wpn_fps_pis_noodle_fo_gre a_obj="a_sl_fo"/>
+			<wpn_fps_pis_noodle_fo_ora a_obj="a_sl_fo"/>
+			<wpn_fps_pis_noodle_fo_red a_obj="a_sl_fo"/>
 		</override>
 		<pcs/>
 	</WeaponMod>
