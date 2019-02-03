@@ -16,13 +16,13 @@ if ( self.noodle ) then
 	self:SetupAttachmentPoint( "noodle", {
 		name = "a_fl",
 		base_a_obj = "a_fl",
-		position = Vector3( 0, 1.5, -0.5 ), 
+		position = Vector3( 0, 1.5, -1 ), 
         rotation = Rotation( 0, 0, 0 )
 		})
 	self:SetupAttachmentPoint( "noodle", {
 		name = "a_brtrail",
 		base_a_obj = "a_body",
-		position = Vector3( 0, -1, -0.5 ), 
+		position = Vector3( 0, 15, 1.4 ), 
         rotation = Rotation( 0, 0, 0 )
 		}) 
 	self:SetupAttachmentPoint("noodle", {
