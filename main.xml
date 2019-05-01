@@ -2,7 +2,7 @@
 
 	<Localization directory="locals" default="english.txt"/>
 	
-<!--<AssetUpdates id="24018" name="asset_updates" version="1.01" provider="modworkshop"/>-->
+	<AssetUpdates id="24466" name="asset_updates" version="1.0" provider="modworkshop"/>
 	
 	<GlobalValue id="noodle" color="Color(0.8, 0.2, 0.8)"/>
 
